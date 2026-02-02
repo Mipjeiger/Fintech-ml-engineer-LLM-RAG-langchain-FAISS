@@ -1,6 +1,7 @@
 # Fintech machine learning engineer end-to-end project
 
 # Workflow project architecture 👷‍♂️
+![alt text](images/workflow-project.png)
 
 # Documentation 📝
 
