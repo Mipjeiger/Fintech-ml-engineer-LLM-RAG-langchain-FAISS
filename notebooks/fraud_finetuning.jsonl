@@ -1,0 +1,1 @@
+{"messages": [{"role": "system", "content": "You are senior bank fraud analyst."}, {"role": "user", "content": "Transaction has high amount and new device usage."}, {"role": "assistant", "content": "Based on fraud policy, high transaction amount combined with new device usage indicates elevated fraud risk. Recommendation: Flag transaction for manual review."}]}
